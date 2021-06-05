@@ -1,7 +1,7 @@
 name: ci-node-pipeline-sonar-cloud
 on:
-  push:
-    branches: [ main ]
+  pull_request:
+    branches: [ develop ]
 jobs:
   check-application:
     runs-on: ubuntu-latest
@@ -17,3 +17,4 @@ jobs:
       - run: npm install jest @types/jest sonar-scanner --only-dev    
       - run: npm run test
       - run: npm start
+      
