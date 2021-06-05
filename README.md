@@ -1,4 +1,5 @@
-se desafio, iremos consolidar os conhecimentos em relação a criação de uma pipeline de CI realizando os seguintes passos.
+------------------------------------------------------------------------------------------------------------------------------------------------
+    Nesse desafio, iremos consolidar os conhecimentos em relação a criação de uma pipeline de CI realizando os seguintes passos.
 
     Crie uma pequena aplicação simples em node.js (qualquer aplicação mesmo)
     Crie testes de unidade para essa aplicação
@@ -10,7 +11,7 @@ se desafio, iremos consolidar os conhecimentos em relação a criação de uma p
     Crie uma Pull Request (PR) realizando todo o processo.
     Informe o link da PR abaixo para que possamos corrigir.
 
---------------------------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------------------------------------------------------
 ->  sonarqube.org
 
 
