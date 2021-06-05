@@ -1,0 +1,6 @@
+projectKey=node-pipeline-sonar-cloud
+serverUrl=http://localhost:9000
+serverVersion=8.9.0.43852
+dashboardUrl=http://localhost:9000/dashboard?id=node-pipeline-sonar-cloud
+ceTaskId=AXnY8_wfbbiZX9owFfLW
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AXnY8_wfbbiZX9owFfLW

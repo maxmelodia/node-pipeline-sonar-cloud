@@ -1,0 +1,24 @@
+{
+  "name": "pipeline-sonar-cloud",
+  "version": "1.0.0",
+  "description": "se desafio, iremos consolidar os conhecimentos em relação a criação de uma pipeline de CI realizando os seguintes passos.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxmelodia/node-pipeline-sonar-cloud.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxmelodia/node-pipeline-sonar-cloud/issues"
+  },
+  "homepage": "https://github.com/maxmelodia/node-pipeline-sonar-cloud#readme",
+  "dependencies": {
+    "@types/jest": "^26.0.23",
+    "jest": "^27.0.4",
+    "sonar-scanner": "^3.1.0"
+  }
+}

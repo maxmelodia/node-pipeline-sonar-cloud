@@ -10,3 +10,12 @@ se desafio, iremos consolidar os conhecimentos em relação a criação de uma p
     Crie uma Pull Request (PR) realizando todo o processo.
     Informe o link da PR abaixo para que possamos corrigir.
 
+--------------------------------------------------------------------------------------------------------------------------------------
+->  sonarqube.org
+
+
+npm init
+npm install jest @types/jest sonar-scanner --only-dev
+
+docker run -d --name sonarqube -e SONAR_ES_BOOTSTRAP_CHECKS_DISABLE=true -p 9000:9000 sonarqube:latest
+localhost:9000
